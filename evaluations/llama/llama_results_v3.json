@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "Here is the text with the text analysis:\n    ```json\n{\n  \"year\": \"1551-1600\",\n  \"confidence\": 90,\n  \"keywords\": [\"Taftorfido\", \"Sinider\", \"Priests\"]\n}}"
+  },
+  {
+    "title": "Catalogue des anciens roys et princes de Gaule, dite depuis France. Extraict dans les œuvres & histoires Gauloises du sieur P. de Rivière, non encores mises en lumière ... avec deux tables, etc",
+    "actual_period": "1600-1650",
+    "raw_response": "## Step 1: Determine the time period of the text\nThe text mentions \"Aeginar\" and \"Versperg\", which are both names of ancient Roman emperors. This suggests that the text is from the Roman Empire period.\n\n## Step 2: Identify the keywords\nThe keywords \"}"
+  }
+]

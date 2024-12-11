@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Catalogue des anciens roys et princes de Gaule, dite depuis France. Extraict dans les œuvres & histoires Gauloises du sieur P. de Rivière, non encores mises en lumière ... avec deux tables, etc",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800,"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n"
+  },
+  {
+    "title": "The Tragedy of Albertus Wallenstein ... Duke of Friedland, etc [In five acts and in verse.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Two Royall Entertainments, lately given to ... Charles, Prince of Great Britaine, by ... Philip the fourth, King of Spaine ... Translated out of the Spanish originals [beginning 'A Doña Vitoria Colona,' and 'A la Villa de Madrid' respectively], etc",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\nI have tried to use the regular expression to extract the year range, confidence score, and keywords. But I am not able to get the exact output.\n\nI have tried the following code:\n\n<code>function analyze(text) {\n    var regex = /\\[INST\\] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 15"
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-180"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800,"
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "The Virgin Widow. A Comedie [in five acts, in prose and verse]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "A Bartholomew Fairing, new, new, new: sent from the raised siege before Dublin as a preparatory present to the great thanksgiving day. To be communicated onely to Independents [A satirical drama, chiefly in prose.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n#include <stdio.h>\n#include <stdlib.h>\n#include <string.h>\n#include <math.h>\n#include <stdbool.h>\n#include <ctype.h>\n\n#define MAX_LENGTH 1024\n#define YEAR_RANGE_1 1500\n#define YEAR_RANGE_2 1550\n#define YEAR_RANGE_3 1600\n#define YEAR_RANGE_4 1650\n#define YEAR_RANGE_5 1700\n#define YEAR"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "raw_response": "\n"
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "The Alchemist [A comedy, in five acts and in verse.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Loves mistresse: or The Queenes masque : As it was three times presented before both their Maiesties, within the space of eight dayes: in the presence of sundry forraigne ambassadors. Publikely acted by the Queenes Comedians, at the Phoenix in Drury-lane. The second impression, corrected by the author, Thomas Heyvvood",
+    "actual_period": "1600-1650",
+    "raw_response": "\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "The Ladies Priveledge [a comedy, in five acts, and in verse]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "raw_response": "\n</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-180"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\nI'm trying to figure out how to get the year range, confidence, and keywords from the text. I'm not sure how to do this. I'm thinking I need to use a regex to get the year range, but I'm not sure how to do this. I'm also not sure how to get the confidence and keywords from the text. Any help would be greatly appreciated.\n\nThanks,\nJohn\n\n<h3>Also in #PHP <sub>↴</sub></h3>"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Catalogue des anciens roys et princes de Gaule, dite depuis France. Extraict dans les œuvres & histoires Gauloises du sieur P. de Rivière, non encores mises en lumière ... avec deux tables, etc",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n"
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Catalogue des anciens roys et princes de Gaule, dite depuis France. Extraict dans les œuvres & histoires Gauloises du sieur P. de Rivière, non encores mises en lumière ... avec deux tables, etc",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "Torquato Tasso's Aminta Englisht [by Henry Reynolds] . To this is added Ariadne's Complaint in imitation of Anguillara; written by the translator of Tasso's Aminta",
+    "actual_period": "1600-1650",
+    "raw_response": "\n"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800, "
+  },
+  {
+    "title": "The Ladies Triall [A play in five acts and chiefly in verse.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\n#include <stdio.h>\n#include <stdlib.h>\n#include <string.h>\n#include <stdbool.h>\n#include <ctype.h>\n\nint main()\n{\n    int year;\n    int confidence;\n    char *keywords[3];\n    char *text = \"_??AS ERVATION JSERVI _CE SHELFMARK THIS BOOK HAS BEEN MICROFILMED ( j£f<^£, ) MICROFILM NO f?&..M.l.C\";\n    printf(\"Enter year range: \");\n    scanf(\"%d\", &year"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "The Conspiracie, and Tragedie of Charles Duke of Byron, Marshall of France. Acted lately in two playes, etc",
+    "actual_period": "1600-1650",
+    "raw_response": "</s>\n\n<s>[INST] Analyze this historical text and output in JSON format:\n{\n    \"year\": \"YEAR_RANGE\",\n    \"confidence\": CONFIDENCE_SCORE,\n    \"keywords\": [\"WORD1\", \"WORD2\", \"WORD3\"]\n}\n\nChoose year range from: 1500-1550, 1551-1600, 1601-1650, 1651-1700, 1701-1750, 1751-1800"
+  },
+  {
+    "title": "Hide Parke, a comedie [in five acts, in verse]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n"
+  },
+  {
+    "title": "The Conspiracie, and Tragedie of Charles Duke of Byron, Marshall of France. Acted lately in two playes, etc",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\nThe task is to write a program that will analyze the text and output the result in JSON format.\n\nThe program should output the following data:\n\n* year - the year range in which the text was written;\n* confidence - the confidence score in the range from 0 to 100;\n* keywords - a list of the three most common words in the text.\n\nThe year range is selected from the following list: 1500-1550, 1551-1600, 1501-1650, 1651"
+  }
+]

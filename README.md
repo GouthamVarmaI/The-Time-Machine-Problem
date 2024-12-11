@@ -42,7 +42,3 @@ mac/linux:
 ```
 export HUGGINGFACE_TOKEN=<your_token>
 ```
-
-## Contributing
-
-For any changes, PLEASE CREATE A NEW BRANCH AND OPEN A NEW PULL REQUEST. DO NOT PUSH TO THE MAIN BRANCH.

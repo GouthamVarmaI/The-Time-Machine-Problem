@@ -1,0 +1,84 @@
+[
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "predicted_period": "1651-1600",
+    "confidence": 85,
+    "key_words": [
+      "Confession",
+      "Chronicle",
+      "Swethland"
+    ],
+    "metadata": {
+      "place": "Cambridge",
+      "language": "English"
+    }
+  },
+  {
+    "title": "Catalogue des anciens roys et princes de Gaule, dite depuis France. Extraict dans les œuvres & histoires Gauloises du sieur P. de Rivière, non encores mises en lumière ... avec deux tables, etc",
+    "actual_period": "1600-1650",
+    "predicted_period": "1551-1600",
+    "confidence": 85,
+    "key_words": [
+      "Gundichar",
+      "Greg.Tur.",
+      "Faramond"
+    ],
+    "metadata": {
+      "place": "Paris",
+      "language": "English"
+    }
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "predicted_period": "1551-1600",
+    "confidence": 85,
+    "key_words": [
+      "Alfeo's bank",
+      "fshady Beech",
+      "grave old man"
+    ],
+    "metadata": {
+      "place": "London",
+      "language": "English"
+    }
+  },
+  {
+    "title": "The Two Famous Pitcht Battels of Lypsich and Lutzen wherein ... Gustavus the Great lived, and died a conquerour: with an elegie upon his untimely death",
+    "actual_period": "1600-1650",
+    "predicted_period": "1651-1600",
+    "confidence": 75,
+    "key_words": [
+      "HafteU of 'Lutzen",
+      "Insantrie",
+      "Imperials",
+      "Swethes",
+      "volleys",
+      "martial toil",
+      "encroaching ranks",
+      "vengeful spight",
+      "tempest"
+    ],
+    "metadata": {
+      "place": "Cambridge",
+      "language": "English"
+    }
+  },
+  {
+    "title": "Loves mistresse: or The Queenes masque : As it was three times presented before both their Maiesties, within the space of eight dayes: in the presence of sundry forraigne ambassadors. Publikely acted by the Queenes Comedians, at the Phoenix in Drury-lane. The second impression, corrected by the author, Thomas Heyvvood",
+    "actual_period": "1600-1650",
+    "predicted_period": "1601-1650",
+    "confidence": 85,
+    "key_words": [
+      "Her Most Excellent Majesty",
+      "Lord Chamberlaine",
+      "Noble Patronage",
+      "Dramma"
+    ],
+    "metadata": {
+      "place": "London",
+      "language": "English"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\nThe confidence score should be between 0 and 1.\n\nThe period should be one of the given options.\n\nThe keywords should be extracted from the text and should be relevant to the historical context.\n\nThe text appears to be a fragment from a historical document or a play, possibly from the Elizabethan era, given the language and references to religious practices and mythological figures. The text does not provide a clear date, but the style and content suggest it could be from the late 16th century.\n\nGiven the lack of specific dates or clear historical markers, the confidence score will reflect"
+  },
+  {
+    "title": "Catalogue des anciens roys et princes de Gaule, dite depuis France. Extraict dans les œuvres & histoires Gauloises du sieur P. de Rivière, non encores mises en lumière ... avec deux tables, etc",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\nThe period should be one of the provided options. The confidence score should be a float between 0 and 1, with 1 being the most confident. The keywords should be a list of relevant words extracted from the text.\n\nText: 35 moin, Aeginar,Vsperg. & autres anciens. Et d'i- * ceux deux Roys sont descendus tous les fubfe quens I vsQ^ves ah^y, en ligne masculine: laquelle outre IesRoysdeFranceenaproduict & donné plusieurs autres àdiuerfes"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\nThe period should be one of the provided options. The confidence score should be a float between 0 and 1, representing the confidence level of the period chosen. The keywords should be a list of relevant words extracted from the text.\n\n\n### Solution:\n{\n    \"year\": \"1501-1550\",\n    \"confidence\": 0.95,\n    \"keywords\": [\"Dido\", \"Mneas\", \"Marble Fane\", \"ashes\", \"Lords\", \"relics\", \"fad\", \"Darke"
+  },
+  {
+    "title": "Il Pastor Fido. The faithfull Shepheard [Translated from the Italian of Guarini.] With an addition of divers other Poems, concluding with a short discourse of the long Civill Warres of Rome ... by Richard Fanshawe, Esq [With an engraved portrait of Guarini by Thomas Cross.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\nThe period should be one of the provided options. The confidence score should be a float between 0 and 1, representing the confidence level of the period selection. The keywords should be a list of relevant words extracted from the text.\n\nSolution 1:\n```json\n{\n    \"year\": \"1701-1750\",\n    \"confidence\": 0.95,\n    \"keywords\": [\"Taflorfidt\", \"Age\", \"Law\", \"modeftie\", \"Riches\", \"ascending\", \"Court-craft"
+  },
+  {
+    "title": "The Tragedy of Albertus Wallenstein ... Duke of Friedland, etc [In five acts and in verse.]",
+    "actual_period": "1600-1650",
+    "raw_response": "\n\nThe period should be one of the provided options. The confidence score should be a float between 0 and 1, representing the confidence level of the period chosen. The keywords should be a list of relevant words extracted from the text.\n\nSolution 1:\n```json\n{\n    \"year\": \"1551-1600\",\n    \"confidence\": 0.95,\n    \"keywords\": [\"Albertus\", \"Wallenftein\", \"Tragedy\"]\n}\n```\n\nInstruction 2 (More Difficult):\n"
+  }
+]
