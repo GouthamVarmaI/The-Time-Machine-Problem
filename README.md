@@ -1,7 +1,8 @@
 # The Time Machine Problem
 
 ## Project Overview
-This project analyzes historical text data across different time periods. It utilizes datasets from arXiv papers (post-1900), British Library Books (1500-1900), and American stories to visualize and understand trends over time.
+The Time Machine Problem is a project to evaluate LLMs (Language Models) on their understanding of historical texts. The project considers three datasets: American Stories, arXiv Papers, and British Library Books. The project evaluates the LLMs on British Library book data considering the diverse range of topics and languages in the dataset. We propose a new retrieval method "weighted RAG" that leverages the RAG and adds a weighting mechanism to improve the retrieval performance. We evaluate the weighted RAG on three models Mistral-7B, Phi-3 (~4b parameters), and gemma 1b. We show that the weighted RAG outperforms the RAG in terms of retrieval performance in the task of preciting the year of the text improving understanding of the historical texts.
+
 
 ## Project Structure
 The project is structured as follows:
